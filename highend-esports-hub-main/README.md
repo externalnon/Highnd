@@ -1,6 +1,17 @@
-# Highend Esports Hub
 
-A modern esports hub with a React + Vite frontend and a minimal Express backend.
+#highend eSports Hub
+
+Welcome to the official repository of highend eSports, a premier organization dedicated to building the future of competitive gaming! 
+
+#About highend eSports
+
+highend eSports is a gaming organization focused on developing top-tier talent, hosting innovative tournaments, and creating a vibrant community for competitive gamers worldwide. Our mission is to provide a professional, engaging, and interactive hub where players, fans, and partners unite to celebrate and advance the world of esports.
+
+#Features
+
+Interactive dashboards for teams, players, and live tournaments.Secure user authentication and profile management.Real-time match updates and live score tracking.Community chat and notifications for events.Social media integration for sharing highlights.Responsive design for desktop and mobile devices.
+
+
 
 ## Monorepo Structure
 
